@@ -1,0 +1,23 @@
+body {
+    background: cadetblue;
+}
+div.container {
+    background: cornflowerblue;
+}
+div.row{
+    border: 1px snow;
+    min-height: 100px;
+}
+
+#heading {
+    color: white;
+    text-align: center;
+}
+
+.heading-div {
+    padding: 20px;
+}
+
+#search-div {
+padding: 20px;
+}
