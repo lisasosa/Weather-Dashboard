@@ -1,4 +1,6 @@
 # Weather-Dashboard
+Elizabeth Sosa
+
 Weather Dashboard App
 
 Links:
