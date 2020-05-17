@@ -1,10 +1,12 @@
 body {
     background: cadetblue;
 }
+
 div.container {
     background: cornflowerblue;
 }
-div.row{
+
+div.row {
     border: 1px snow;
     min-height: 100px;
 }
@@ -19,6 +21,9 @@ div.row{
 }
 
 #search-div {
-padding: 20px;
+    padding: 20px;
 }
 
+.day-forecast {
+    margin: 10px;
+}
